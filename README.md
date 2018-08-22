@@ -1,5 +1,5 @@
 # Matching-Engine
-Very Simple Redis Matching Engine
+Very Simple Redis Matching Engine -bitcoin exchange back end
 
 Speed test at GCM , 2 core 4GB VM
 80,000+ transaction /sec
